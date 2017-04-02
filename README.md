@@ -4,7 +4,7 @@
 
 1. Copy `zh.js` to another locale like `jp.js`
 2. Edit the copied file and change the text
-3. create PR
+3. Create PR
 
 
 ### Thanks for your help!
